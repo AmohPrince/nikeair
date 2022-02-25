@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/nikeair/static/css/main.7a5f7ca1.css",
+    "main.js": "/nikeair/static/js/main.b418dc62.js",
+    "static/media/AirforceFooter1.png": "/nikeair/static/media/AirforceFooter1.24a885ee2eadd59ef268.png",
+    "static/media/AirForceFooter2.png": "/nikeair/static/media/AirForceFooter2.ba70c5d15171240827d2.png",
+    "static/media/BodyAirforce.png": "/nikeair/static/media/BodyAirforce.b911b2a6b1b4b3863906.png",
+    "static/media/AirForceFooter3.png": "/nikeair/static/media/AirForceFooter3.22a7bb5f070e80f930c2.png",
+    "static/media/PlayButton.PNG": "/nikeair/static/media/PlayButton.d493482c205b2bce1bac.PNG",
+    "index.html": "/nikeair/index.html",
+    "main.7a5f7ca1.css.map": "/nikeair/static/css/main.7a5f7ca1.css.map",
+    "main.b418dc62.js.map": "/nikeair/static/js/main.b418dc62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a5f7ca1.css",
+    "static/js/main.b418dc62.js"
+  ]
+}
