@@ -1,0 +1,36 @@
+.App__navbar {
+  display: flex;
+  align-items: center;
+  padding: 0;
+}
+
+.app_navbar_links {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  flex: 1;
+  line-height: 22px;
+  max-width: 476px;
+}
+
+a {
+  text-decoration-line: none;
+}
+
+.logo {
+  width: 200px;
+  object-fit: cover;
+}
+
+.links > a {
+  color: #333333;
+}
+
+.nikelogo {
+  display: flex;
+}
+.target {
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration-line: underline;
+}
